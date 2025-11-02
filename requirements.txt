@@ -2,3 +2,4 @@ pandas
 numpy
 notebook
 seaborn
+scikit-learn
